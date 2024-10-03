@@ -1,0 +1,43 @@
+.home-container {
+    text-align: center;
+    padding: 20px;
+}
+
+.pets-icon-container {
+    display: block;
+    margin: 0 auto 20px auto;
+}
+
+.home-headline {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.home-paragraph {
+    font-size: 1.25rem;
+    margin-bottom: 20px;
+}
+
+.home-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.home-list-item {
+    margin: 10px 0;
+}
+
+.home-button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.home-button:hover {
+    background-color: #45a049;
+}
